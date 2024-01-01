@@ -1,9 +1,8 @@
 const items = [
   {
-    title:
-      "The AI Showdown of 2023: Google Unveils Gemini to Challenge GPT-4 Dominance",
-    link: "https://blog.randiltharusha.me/posts/google-unveils-gemini/",
-    pubDate: "Fri, 08 Dec 2023",
+    title: "Data Integrity: Using SQL Triggers for Efficient History Logging",
+    link: "https://medium.com/@youssefelyamani/data-integrity-using-sql-triggers-for-efficient-history-logging-47d8ae068bb5",
+    pubDate: "10 Dec 2023",
     guid: "https://rtharusha.tech/posts/google-unveils-gemini/",
     image: "https://rtharusha.tech/images/gemini.webp",
     description:

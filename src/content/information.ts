@@ -1,12 +1,12 @@
 //personal information start
-
+import PROFILE_IMAGE from "../assets/profile_pic.jpg";
 const userData = {
-  firstName: "<Randil",
-  lastName: "Tharusha/>",
+  firstName: "<Youssef",
+  lastName: " EL Yamani/>",
   title: "About Me",
-  img: "https://pics.craiyon.com/2023-10-30/66ff0c95358e458c859ecea5d3764b32.webp",
+  img: PROFILE_IMAGE, // "https://pics.craiyon.com/2023-10-30/66ff0c95358e458c859ecea5d3764b32.webp",
   description:
-    "Hey there! 👋 I'm Randil, a passionate Software Engineering undergrad at Staffordshire University. 💻 By day, I'm a tech enthusiast exploring the wonders of coding, and by night, I transform into an aspiring full-stack developer. 🌌 My journey spans from crafting code to delving into the realms of IoT, cybersecurity, AI, and ML. When not in the digital world, you'll find me navigating the strategic landscape of League of Legends for some competitive fun. Let's connect and embark on an exciting adventure through the vast universe of technology! 🚀 ",
+    "Passionate software engineer with a strong foundation in mathematics and a deep love for problem-solving. With experience in full-stack web development, I excel in tackling challenges related to algorithms and data structures. My commitment to continuous learning drives me to work harder and reach higher. Skilled in navigating complex coding landscapes, I am always eager to explore new technologies and innovative solutions. Let's connect and share our journey through the ever-evolving world of technology",
 };
 
 //personal information end

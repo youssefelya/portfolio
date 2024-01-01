@@ -52,7 +52,7 @@ function App() {
       />
       <div className="hr"></div>
 
-      <section id="projects">
+      {/* <section id="projects">
         <Heading firstWord="My" secondWord="Projects" />
         <motion.div
           className="project-map"
@@ -74,7 +74,7 @@ function App() {
             </div>
           ))}
         </motion.div>
-      </section>
+      </section> */}
       <section id="skills">
         <Heading firstWord="Skills" secondWord="&Tools" />
         <motion.div
