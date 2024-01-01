@@ -28,7 +28,7 @@ const BlogPost = (props: BlogPostProps) => {
         <p className="post-desc">{props.date}</p>
       </div>
       <div className="project-links">
-        <a href={props.read}>
+        <a href={props.read}  target="_blank" rel="noopener noreferrer">
           Read More <FaExternalLinkAlt />
         </a>
       </div>

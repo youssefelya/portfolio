@@ -105,7 +105,10 @@ function App() {
             />
           ))}
         </div>
-        <a className="cyber-scourge" href="https://blog.randiltharusha.me">
+        <a className="cyber-scourge" href="https://youssefelyamani.medium.com/"
+        
+        target="_blank" rel="noopener noreferrer"
+        >
           View More Posts
         </a>
       </section>

@@ -13,10 +13,7 @@ type ProjectCardProps = {
 };
 
 const ProjectCard = (props: ProjectCardProps) => {
-  // const containerVariants = {
-  //   hidden: { opacity: 0 },
-  //   visible: { opacity: 1, transition: { duration: 0.8 } },
-  // };
+ 
   return (
     <div className="project-card">
       <div className="project-img">
@@ -52,13 +49,6 @@ const ProjectCard = (props: ProjectCardProps) => {
   );
 };
 
-ProjectCard.propTypes = {
-  name: PropTypes.string.isRequired,
-  description: PropTypes.string.isRequired,
-  tags: PropTypes.string.isRequired,
-  img: PropTypes.string.isRequired,
-  source: PropTypes.string.isRequired,
-  preview: PropTypes.string.isRequired,
-};
+ 
 
 export default ProjectCard;

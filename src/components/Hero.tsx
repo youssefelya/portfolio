@@ -38,15 +38,17 @@ const Hero = (props: HeroProps) => {
         <Typewriter
           options={{
             strings: [
-              "An Aspiring Developer",
-              "An AI & ML Enthusiast",
-              "An IoT Enthusiast",
-              "A Student",
+
+              "Experienced in Full-Stack Software Development",
+              "Skilled in Building Scalable Software Solutions",
+              "Proficient in AI & Machine Learning Technologies",
+              "Focused on Continuous Learning and Innovation",
+
             ],
             autoStart: true,
             loop: true,
           }}
-          //  className="typewriter"
+        //  className="typewriter"
         />
       </div>
       {/* <HeroHeading /> */}

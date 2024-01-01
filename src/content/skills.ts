@@ -1,5 +1,7 @@
 const skills = [
+  "java.svg",
   "react.svg",
+  "python.svg",
   "nextjs.svg",
   "js.svg",
   "html.svg",
@@ -7,7 +9,7 @@ const skills = [
   "framer-motion.svg",
   "nodejs.svg",
   "express.svg",
-  "python.svg",
+
   "bootstrap.svg",
   "git.svg",
   "github.svg",

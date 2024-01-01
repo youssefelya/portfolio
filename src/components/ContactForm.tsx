@@ -16,7 +16,9 @@ const ContactForm = () => {
           <h3>Or find me on:</h3>
           <div className="hero-socials">
             {socials.map((social, index) => (
-              <a key={index} href={social.url}>
+              <a key={index} href={social.url}
+              target="_blank" rel="noopener noreferrer"
+              > 
                 <img src={`/socials/${social.icon}`} alt="" />
               </a>
             ))}
@@ -28,14 +30,11 @@ const ContactForm = () => {
             youssefelyamani012@gmail.com
           </p>
           <br />
-          <p className="contact-links">
-            <FaPhoneAlt />
-            +94 78 134 7983
-          </p>
-          <br />
+         
+    
           <p className="contact-links">
             <IoLocation />
-            Sri Lanka
+           Casablanca 
           </p>
           <br />
         </div>
